@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdullah 👋</h1>
 <h3 align="center">I'm a Software Engineer passionate about building innovative projects.</h3>
 
-- 🌱 I’m currently learning **Game Development and Machine Learning.**
+- 🌱 I’m currently learning **Game Development and Artificial Intelligence.**
 - 📫 How to reach me: [abdullahsultan21@yahoo.com](mailto:abdullahsultan21@yahoo.com)
 - ⚡ Fun fact: **I'm an avid gamer—love playing all kinds of video games!**
 
