@@ -86,7 +86,7 @@
 
 <h3 align="left">Current Focus:</h3>
 <p>
-  Currently, I’m working on a **Unity-based project** where I am exploring **game development**, focusing on creating immersive 3D environments and interactive gameplay mechanics. I'm also diving deeper into **machine learning** to incorporate AI elements and procedural generation into my projects.
+  Currently, I’m working on a Unity-based project where I am exploring game development, focusing on creating immersive 3D environments and interactive gameplay mechanics. I'm also diving deeper into machine learning and deep learning to incorporate AI elements and procedural generation into my projects.
 </p>
 
 ---
